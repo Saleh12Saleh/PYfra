@@ -80,11 +80,8 @@ streamlit run ./streamlit_app/pyfra_streamlit.py
 # Credits
 [(Back to top)](#table-of-contents)
 ## Project members
-Kay Langhammer [GitHub](https://github.com/Langhammer) / [LinkedIn](https://www.linkedin.com/in/kay-langhammer/)  
-Robert Leisring  
-Saleh Saleh  
-Michal Turák  
-
+Saleh Saleh [GitHub](https://github.com/Saleh12Saleh) / [LinkedIn](https://www.linkedin.com/in/saleh-saleh-90/)  
+ 
 ## Project Mentors
 Laurene Bouskila [GitHub](https://github.com/laureneb26)  
 Robin Trinh [GitHub](https://github.com/TrinhRobin)  
